@@ -1,0 +1,43 @@
+[
+    {
+        "id": "4",
+        "firstName": "Allan",
+        "lastName": "Iverson"
+    },
+
+    {
+        "id": "5",
+        "firstName": "Magic",
+        "lastName": "Johnson"
+    },
+
+    {
+        "id": "6",
+        "firstName": "Steve",
+        "lastName": "Nash"
+    },
+
+    {
+        "id": "7",
+        "firstName": "Paul",
+        "lastName": "Pierce"
+    },
+
+    {
+        "id": "8",
+        "firstName": "Joe",
+        "lastName": "Johnson"
+    },
+    
+    {
+        "id": "9",
+        "firstName": "Steph",
+        "lastName": "Curry"
+    },
+
+    {
+        "id": "10",
+        "firstName": "Derrick",
+        "lastName": "Rose"
+    }
+]
